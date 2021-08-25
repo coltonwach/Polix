@@ -7,6 +7,7 @@ Have fun reading my code
 Please do not publish my assets as your own, Thank you
 
 ## How To Install
+just read the readme script inside of polix lol
 
 ## Updates
 Updates will happen sometimes if your version is out of date the server will print Polix is out of date
