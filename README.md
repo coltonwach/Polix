@@ -13,7 +13,16 @@ Have fun reading my code
 Please do not publish my assets as your own, Thank you
 
 ## How To Install
-just read the readme script inside of polix lol
+
+Go to the PolixDownloads folder in the github
+I recommend you use the compiled builds (I rarely ever push out beta builds anyway)
+Get the latest build by clicking it and then clicking Download
+
+Go into the game you would like to install it to
+Right click the workspace and select "Import from file"
+Find wherever you downloaded polix to
+Import it
+Read the readme file inside of it :)
 
 ## Updates
 Updates will happen sometimes if your version is out of date the server will print Polix is out of date
